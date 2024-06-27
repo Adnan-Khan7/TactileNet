@@ -30,7 +30,8 @@ Generator Model 1: Download the stable-diffusion-v1-5 model (v1-5-pruned-emaonly
 Generator Model 2: Download the deliberate_v3.safetensors model from [Google Drive](https://drive.google.com/file/d/1bQo3oElYmsCmrcT-EgGeriBGszZmzUgW/view?usp=sharing) and place it in the folder /stable-diffusion-webui/models/Stable-diffusion.
 
 ## Usage
-Once the setup is complete, you can start generating tactile graphics using the Stable Diffusion WebUI with our fine-tuned adapters. Follow the WebUI instructions to load the models and adapters, and generate images based on your prompts. 
+Once the setup is complete, you can start generating tactile graphics using the Stable Diffusion WebUI with our fine-tuned adapters. Follow the WebUI instructions to load the models and adapters, and generate images based on your prompts. An example usage of lora adapter for "airplane" class is shown in Figure below. ![Image](imgs/airplane_config.jpg)
+
 
 ## Configurations
 Keep the default hyper-parameters for text to image translation. For image to image translation denoising strength between 0.8 - 0.85 for most classes bear good results.
