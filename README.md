@@ -1,7 +1,7 @@
 
 # TactileNet: Bridging the Accessibility Gap with AI-Generated Tactile Graphics for Individuals with Vision Impairment
 
-Official repository for project: [TactileNet](https://arxiv.org/abs/2504.04722)  
+Official repository for project: [TactileNet](https://tactilenet.github.io/)  
 Authors: Adnan Khan, Alireza Choubineh, Mai A. Shaaban, Abbas Akkasi, Majid Komeili
 
 ---
