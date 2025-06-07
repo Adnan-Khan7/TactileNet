@@ -51,7 +51,7 @@ stable-diffusion-webui/models/Lora/
 ### 4. Download Base Models
 
 - **SD v1.5**: Get `v1-5-pruned-emaonly.safetensors` from [Hugging Face](https://huggingface.co/runwayml/stable-diffusion-v1-5).
-- **Deliberate v3** (optional): [Download](https://drive.google.com/file/d/1bQo3oElYmsCmrcT-EgGeriBGszZmzUgW/view?usp=sharing)
+- **Deliberate v3** (optional): [Download](https://drive.google.com/file/d/10I-zz34ImDOnh8KmvWdlGdxz1I8oqB1o/view?usp=sharing)
 
 Place in: `/stable-diffusion-webui/models/Stable-diffusion/`
 
