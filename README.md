@@ -39,13 +39,10 @@ cd TactileNet
 
 ### 3. Copy Adapters
 
-Move LoRA adapters from:
+Download LoRA adapters from [Google Dive](https://drive.google.com/drive/folders/1XFn4wlcTogWbXtm4lc0cnyEN0vH7mBVy?usp=sharing)
 
-```
-TactileNet/models/
-```
 
-to:
+Copy all the .safetensors files to:
 
 ```
 stable-diffusion-webui/models/Lora/
