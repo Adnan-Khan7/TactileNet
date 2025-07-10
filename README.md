@@ -44,6 +44,22 @@ Key Features:
 *Figure: Overview of the TactileNet framework combining LoRA and DreamBooth adapters for class-specific tactile image generation.*
 
 ---
+## 📂 Dataset
+
+We release the full **TactileNet training dataset** containing paired images and prompts across 66 tactile graphic categories.
+
+- Organized by class folders (e.g., `airplane/`, `bat/`, etc.)
+- Each class folder includes an `Inputs/` subfolder with:
+  - Image files (`.png` or `.jpg`)
+  - Corresponding prompt text files (`.txt`) containing natural language descriptions
+- Suitable for fine-tuning text-to-image or image-to-image generative models
+
+📥 **Access the dataset** on Hugging Face:  
+[👉 MaiAhmed/TactileNet (train split)](https://huggingface.co/datasets/MaiAhmed/TactileNet/tree/main/train)
+
+
+
+---
 
 ## ⚙️ Setup Instructions
 
