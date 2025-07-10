@@ -29,6 +29,12 @@ Key Features:
 - Fully compatible with embossing workflows
 - Supports prompt-level editing (e.g., add/remove logo, features)
 
+  <p align="center">
+  <img src="https://github.com/Adnan-Khan7/TactileNet/blob/main/imgs/methodology.png" alt="TactileNet Methodology Diagram" width="700"/>
+</p>
+
+*Figure: Overview of the TactileNet framework combining LoRA and DreamBooth adapters for class-specific tactile image generation.*
+
 ---
 
 ## ⚙️ Setup Instructions
