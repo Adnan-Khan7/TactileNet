@@ -4,6 +4,9 @@
 Official repository for project: [TactileNet](https://tactilenet.github.io/)  
 Authors: Adnan Khan, Alireza Choubineh, Mai A. Shaaban, Abbas Akkasi, Majid Komeili
 
+[![Project Page](https://img.shields.io/badge/Webpage-TactileNet-green)](https://tactilenet.github.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ---
 
 ## 🔍 Abstract
