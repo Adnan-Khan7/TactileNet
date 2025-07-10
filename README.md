@@ -135,7 +135,7 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
-This work was supported in part by MITACS and the Digital Alliance of Canada. We thank the student volunteers at the Intelligent Machines Lab, Carleton University, for their help with dataset curation and image matching.
+This work was supported in part by MITACS, NSERC and the Digital Alliance of Canada. We thank the student volunteers at the Intelligent Machines Lab, Carleton University, for their help with dataset curation and image matching, especially Aarushi, Abrar, Lucksiha, Sohini, and Sona.
 
 ## 🚀 Citation
 
