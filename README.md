@@ -4,6 +4,8 @@
 Official repository for project: [TactileNet](https://tactilenet.github.io/)  
 Authors: Adnan Khan, Alireza Choubineh, Mai A. Shaaban, Abbas Akkasi, Majid Komeili
 
+**Paper Status:** Accepted and to be presented at IEEE SMC 2025. More info: [https://www.ieeesmc2025.org/](https://www.ieeesmc2025.org/)
+
 [![Project Page](https://img.shields.io/badge/Webpage-TactileNet-green)](https://tactilenet.github.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
