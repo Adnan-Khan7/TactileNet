@@ -136,3 +136,18 @@ This project is licensed under the MIT License.
 ## 🙏 Acknowledgments
 
 This work was supported in part by MITACS and the Digital Alliance of Canada. We thank the student volunteers at the Intelligent Machines Lab, Carleton University, for their help with dataset curation and image matching.
+
+## 🚀 Citation
+
+If you use TactileNet in your research, please cite:
+
+```bibtex
+@misc{khan2025tactilenetbridgingaccessibilitygap,
+      title={TactileNet: Bridging the Accessibility Gap with AI-Generated Tactile Graphics for Individuals with Vision Impairment}, 
+      author={Adnan Khan and Alireza Choubineh and Mai A. Shaaban and Abbas Akkasi and Majid Komeili},
+      year={2025},
+      eprint={2504.04722},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.04722}, 
+}
