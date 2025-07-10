@@ -15,6 +15,14 @@ Tactile graphics are essential for providing access to visual information for th
 
 **TL;DR:** TactileNet uses small, domain-tuned LoRA + DreamBooth adapters to generate high-fidelity tactile graphics for visually impaired users using Stable Diffusion.
 
+---
+
+## 🎯 Teaser
+
+![Teaser Image](imgs/teaser.jpg)
+
+*Figure: Our image-to-image translation pipeline. Top: natural reference images. Middle: benchmark tactile graphics from expert sources. Bottom: model-generated tactile graphics using our fine-tuned adapters.*
+
 
 ---
 
