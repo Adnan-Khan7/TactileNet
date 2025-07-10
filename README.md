@@ -10,7 +10,11 @@ Authors: Adnan Khan, Alireza Choubineh, Mai A. Shaaban, Abbas Akkasi, Majid Kome
 
 Tactile graphics provide critical access to visual information for individuals with vision loss. TactileNet introduces the first large-scale dataset and fine-tuned Stable Diffusion framework for generating embossing-ready 2D tactile templates from text or image inputs. Our method combines Low-Rank Adaptation (LoRA) and DreamBooth fine-tuning techniques to generate high-fidelity tactile graphics while reducing computational overhead. Evaluations with tactile experts show strong alignment with design guidelines and structural similarity to expert-crafted templates.
 
+**TL;DR:** TactileNet uses small, domain-tuned LoRA + DreamBooth adapters to generate high-fidelity tactile graphics for visually impaired users using Stable Diffusion.
+
+
 ---
+
 
 ## 🧠 Method Overview
 
@@ -39,7 +43,7 @@ cd TactileNet
 
 ### 3. Copy Adapters
 
-Download LoRA adapters from [Google Dive](https://drive.google.com/drive/folders/1XFn4wlcTogWbXtm4lc0cnyEN0vH7mBVy?usp=sharing)
+Download LoRA adapters from [Google Drive](https://drive.google.com/drive/folders/1XFn4wlcTogWbXtm4lc0cnyEN0vH7mBVy?usp=sharing)
 
 
 Copy all the .safetensors files to:
