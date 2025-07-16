@@ -124,8 +124,8 @@ Place in: `/stable-diffusion-webui/models/Stable-diffusion/`
 
 Includes:
 - `ssim.py` for evaluating image similarity
-- Prompt examples
-- Precomputed metrics (coming soon)
+- Download the data for evaluation from [Google Drive](https://drive.google.com/file/d/1Nh-R9nAsqeC6xz8AiVcTF1iaSSSora1S/view?usp=drive_link)
+- Run ssim.py with data folder in base directory.
 
 ---
 
