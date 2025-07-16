@@ -48,7 +48,7 @@ Key Features:
 ---
 ## 📂 Dataset
 
-We release the full **TactileNet training dataset** containing paired images and prompts across 66 tactile graphic categories.
+We release the full text-image **TactileNet training dataset** containing image-prompt pairs across 66 tactile graphic categories.
 
 - Organized by class folders (e.g., `airplane/`, `bat/`, etc.)
 - Each class folder includes an `Inputs/` subfolder with:
