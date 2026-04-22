@@ -4,7 +4,7 @@
 Official repository for project: [TactileNet](https://tactilenet.github.io/)  
 Authors: Adnan Khan, Alireza Choubineh, Mai A. Shaaban, Abbas Akkasi, Majid Komeili
 
-**Paper Status:** Accepted and to be presented at IEEE SMC 2025. More info: [https://www.ieeesmc2025.org/](https://www.ieeesmc2025.org/)
+**Paper Status:** Accepted at IEEE SMC 2025. More info: [https://www.ieeesmc2025.org/](https://www.ieeesmc2025.org/)
 
 [![Project Page](https://img.shields.io/badge/Webpage-TactileNet-green)](https://tactilenet.github.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -144,12 +144,11 @@ This work was supported in part by MITACS, NSERC and the Digital Alliance of Can
 If you use TactileNet in your research, please cite:
 
 ```bibtex
-@misc{khan2025tactilenetbridgingaccessibilitygap,
-      title={TactileNet: Bridging the Accessibility Gap with AI-Generated Tactile Graphics for Individuals with Vision Impairment}, 
-      author={Adnan Khan and Alireza Choubineh and Mai A. Shaaban and Abbas Akkasi and Majid Komeili},
-      year={2025},
-      eprint={2504.04722},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.04722}, 
+@inproceedings{khan2025tactilenet,
+  title={TactileNet: Bridging the Accessibility Gap with AI-Generated Tactile Graphics for Individuals with Vision Impairment},
+  author={Khan, Adnan and Choubineh, Alireza and Shaaban, Mai A and Akkasi, Abbas and Komeili, Majid},
+  booktitle={2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pages={569--576},
+  year={2025},
+  organization={IEEE}
 }
